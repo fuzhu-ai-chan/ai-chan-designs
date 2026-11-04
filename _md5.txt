@@ -22,9 +22,7 @@ ee5ecd7084ef20be484250a345e9c86ec4b597c48094641ff8c459d726dc22e9  角色\ling\01
 a031776535602e69364aa1271200c84fcd75108d30a10df34d62cbdda46f2645  角色\ling\01_立绘\ling b 中.png
 9ebd27568526ddcc1c08a4cdcb25d3156aa76a3b8b0ec1d148956b34191d6219  角色\ling\01_立绘\ling b 大.png
 d9d2af04cc6a044abe0e95bf1ed5bcf450d16b697b25df8ad5f4f75420f532f8  角色\ling\01_立绘\ling b 小.png
-9836a4d8cd8e7e43a4311e9fdd141c2e3257020f064950a984313a507eb323e0  角色\ling\02_三视图\ling 三视图 奇幻.png
-c29291deab212976dee983beb6e3c2a743071561c1127672d5b288f28a233400  角色\ling\02_三视图\ling 三视图 科技.png
-7f40cf1ecb1fb1b7d08396914f13d902a912b980e5a945223d6aa99247208e4e  角色\ling\04_Q版\ling Q版 b.png
+7f40cf1ecb1fb1b7d08396914f13d902a912b980e5a945223d6aa99247208e4e  角色\ling\04_Q版\ling Q版 a.png
 75abba15dae76a790b5f67453fdb0cb5f68ddd897cec9a27675572430b2cd388  角色\ling\05_头像\ling 头像 a.png
 3ff5c3ed4b997df3627bb8f4014fbb073101bb2b3f1da8f50f77c34ecd1903bf  角色\longcat\01_立绘\longcat a 中.png
 ba97d0fa8e6a581c880d919cbd3720e27d8f3a9782506f176815b6d79a019cf4  角色\longcat\01_立绘\longcat a 大.png
@@ -72,6 +70,4 @@ c28006ce1f4d93dac0d4d5533c5a97a1173b5c80dbd9be92af6d6267c36ccf1f  角色\unisoun
 d4a5885d824b609814c001df3b6bcab297247d17cdcc128cc455e5e88b041f02  角色\unisound\01_立绘\unisound b 中.png
 c7ab6d66bc9fb6218bfd6d45e848314cd2bd981ef90e02fe20f04bb4e019a4b6  角色\unisound\01_立绘\unisound b 大.png
 6e6bdbb80717f83e1a95027dbf64fd40beeb1b12ac064a311b63e60b9e3b021a  角色\unisound\01_立绘\unisound b 小.png
-bf9a764c27ecad4dc1c9e29aa9af5b517499358167795554bbd4003a0cf80a69  角色\unisound\02_三视图\unisound 三视图 全息.png
-e7cbbebde7dda33bf35bf69506cf92db200bc7fb27ae34f33969413a35a7c00c  角色\unisound\02_三视图\unisound 三视图 奇幻.png
 d256267004a2e0e506253ea4300bc08ad24bea4b100e617df966633b4dac55aa  角色\unisound\05_头像\unisound 头像 a.png
