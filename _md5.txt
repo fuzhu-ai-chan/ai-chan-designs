@@ -3,6 +3,8 @@ dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469  角色\codex\0
 fba18fc2f2cbad4b85ec58b3a52fb9c601ffb5fc097d77f6658830b4e74981bf  角色\codex\01_立绘\codex b 小.png
 5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab  角色\codex\02_三视图\codex 三视图 科技.png
 b36129f5d4f29db9149ba0b52becf01b4bace9b2aec22829f23a55d0318a1cc2  角色\codex\03_补充设定\codex 三档对比 科技.png
+7ecee544a80d171981a89a0a07622e172b13e90e7cd11fcbcba0cc952c394ac3  角色\codex\04_Q版\codex Q版 b.png
+947b2a1886936547555c3c4563ceb48bdcf22e743c5287f36c20973179aacb03  角色\codex\05_头像\codex 头像 b.png
 4a293e1ca6dfaa245842a8b238a6b287d71795013849dd580351b0b564bf8877  角色\diandian\01_立绘\dots a 中.png
 2f37a646a04fec7bb6b989c93ef81405d6a84d87c2d6f74eca3a82c8e124f5e5  角色\diandian\01_立绘\dots a 大.png
 1e76e51a6dee20e4cf154cd7be7f9e655cb12bdb8403f5283cc56c1672e144d2  角色\diandian\01_立绘\dots a 小.png
@@ -14,16 +16,21 @@ a451006c5d366612554125ce84705eec88e67b35bb201e5fd022c80472aac70c  角色\diandia
 7e617019641251b675ff40329405eb1febfb74e8982b57786b05f4f89b22089c  角色\diandian\03_补充设定\dots 补充设定.png
 d350758918b9e57af7b512a1a5e1ce6c26cc1d1dab5cb7afa234b852b966a543  角色\diandian\04_Q版\dots Q版 a.png
 7a024638ffdfc12f1cb981980743f9e4ec24a419a19a0f4f42ea838d9fa9c78a  角色\diandian\04_Q版\dots Q版 b.png
-1860705b8c21de31aae2505fa9318d00a688090f9c691898bc3b2fa0654779e8  角色\diandian\05_头像\dots 头像 a.png
-a64f84d6196ec42ed3097760605a76c2169bc90870a2aaa657b966200bca9abd  角色\diandian\05_头像\dots 头像 b.png
+c7e58ea1b36289416d6f638840671067af22c1ab169177046f8a51ad1bb5a331  角色\diandian\05_头像\dots 头像 a.png
+040980d72e17b2a575a9f83135efa39006f9d1c7478fb03d3d2abdba86bd4f18  角色\diandian\05_头像\dots 头像 b.png
 3de7a4c13f808e75ce2861d93d47d703240ce153f2ffc8af250fec63f81df8a4  角色\ling\01_立绘\ling a 中.png
 99982a922e782120330afb0b55e3ccc74304c8e4fbb2047f57adf9dda891b04b  角色\ling\01_立绘\ling a 大.png
 8edb21574462aab58172fcbd7f4d2111d1d3e4b4c4431fb7d2e9fb432cb7955a  角色\ling\01_立绘\ling a 小.png
 6733f0411ede03fa58eb0447481f32207555c9a524676d82687462dc92864629  角色\ling\01_立绘\ling b 中.png
 0cd2972887f8446a0228108ea56b1477eb1a571e96103b2c2c944df135d83ef6  角色\ling\01_立绘\ling b 大.png
 c35c10456daf141d2c9ec985a6b0a92e257ddc1ccb1b41767e2475998cdf4bce  角色\ling\01_立绘\ling b 小.png
+234f5bb7b5bc79a96fc9564f4ea808633df21ebe261e5ebea77205ab0f360c56  角色\ling\02_三视图\ling 三视图 拼接版 奇幻.png
+e9b50f41eab83370dbf8dd4d930ea7f59dfaae891f8a6027cc66b3ef2588da1c  角色\ling\02_三视图\ling 三视图 拼接版 科技.png
+bb204ff64531fbc0e2328e33d23bd299cea063fe2525794fbfd6159460ba001c  角色\ling\03_补充设定\ling 补充设定.png
 05676eb44e4d04498b2dd47d0786a41663483c7af9a1afd73e85a3776424f9f1  角色\ling\04_Q版\ling Q版 a.png
-65608db0b7294c1bab0087dfb7e1726f8f0131035ca531f6d32381e7f51dbdd8  角色\ling\05_头像\ling 头像 a.png
+8576d71c02ca3daf27f0d165bd48cdba1bb59ffeed35cb557df638bd00db0f8c  角色\ling\04_Q版\ling Q版 b.png
+f6269d36214f09087d83b5f158a005962d7577c3f7f207924e2fb215aa880597  角色\ling\05_头像\ling 头像 a.png
+601f22c19564d30609cbe0373f82d104d289ed4c917990a1ebf3aaed9fc2cada  角色\ling\05_头像\ling 头像 b.png
 691d414b98589ff8d778daec7278a92d20513c71513de77285d38a324737ee6a  角色\longcat\01_立绘\longcat a 中.png
 b7f00ab29ec6d68adb4e6fccb2e4841a05d99a8cb0171a991318997f05ebe349  角色\longcat\01_立绘\longcat a 大.png
 f94b3a4f0f54bb3d7e5398b350613cfbd01ef1abad4a22520e112f8bfb7c683e  角色\longcat\01_立绘\longcat a 小.png
@@ -48,8 +55,8 @@ ccabdd1253a5da99346bfaa3cde6cf8d28cb8cb86061ab94939388f6d830dd71  角色\mimo\01
 dfd2954a1b95c240891c928f27f3691232e4df0d8ee41890572041ca50adf591  角色\mimo\03_补充设定\MiMo｜奇幻科技补充设定.png
 73ad18bcc3c0f9ebd937693112873e7474836322675f1b20830df8e019469b42  角色\mimo\04_Q版\mimo Q版 a.png
 0b96de2164d36c3e86f621b0d45fe229d03dadb3807beb7179834eac97791bbb  角色\mimo\04_Q版\mimo Q版 b.png
-d0a3fdcfbe0022bb9452c9b54d6527e8558c1f80239f15765ab10b034bcab448  角色\mimo\05_头像\mimo 头像 a.png
-c3a5892b3dadc2ab9cbb20c83e25b13127ab4d30cf677a5f2aac1c15a6186578  角色\mimo\05_头像\mimo 头像 b.png
+ca36df9c54d9b6413489f83853e6d5076c2c0c22fcd7e36a4c5306b017fc0d51  角色\mimo\05_头像\mimo 头像 a.png
+f8a16ba02ad3b95c5caa281609d6bf922bb76539723208d74e1735b12c759e9a  角色\mimo\05_头像\mimo 头像 b.png
 0a7fad19c892a33da81d170731a2ed34b202b88e4af2cc59941fa8ab1bb2cb2e  角色\mimo\05_头像\mimo圆头像.png
 aaea5b5d1cf2191b834ff5f303f73c837b17a5df39fb370ec4bafc80ca8704ea  角色\moss\01_立绘\moss a 中.png
 83c7de28e0826302234e4c06fee1378d4e2ae48662223eecb5a6fb28a0f9686a  角色\moss\01_立绘\moss a 大.png
@@ -70,4 +77,10 @@ b4d33e21413aefe45d23d27242ea45c9cb555bb66a7c6cd394f02f9828c32766  角色\unisoun
 554b25459156d3e9858e77699eb7f643001e74a4492cd5698e050ae0232f3bf0  角色\unisound\01_立绘\unisound b 中.png
 14cd26a3e14514bb0a3a11a8698ac0dce986ad370bf15d347a880e3a2a7fdedf  角色\unisound\01_立绘\unisound b 大.png
 dc782d972157109a863a4abd007d30d22feea92e10e901d9ee7b4e16a9e45379  角色\unisound\01_立绘\unisound b 小.png
-69e9cfd56396e7379c1c980fded67565b8be5eef5e894be3353406ceebcf9fa7  角色\unisound\05_头像\unisound 头像 a.png
+9abb44c95bac5131d47e3d2725bfb50f7f860bc0c121fcec8f80b7da37f09d7f  角色\unisound\02_三视图\unisound 三视图 拼接版 全息.png
+5d9edcaeffe84a3784cd0da58c3f607a70f242c0c0776840b177c024401f1a4a  角色\unisound\02_三视图\unisound 三视图 拼接版 奇幻.png
+809954ec7121ebe7b3e3686292d56b5f7af4910d6f09d6cc52eca77598835725  角色\unisound\03_补充设定\unisound 补充设定.png
+9713c89db0a3e6fd83da51fafe8bca8f2ef6224d7543fb98bda621951b4fa252  角色\unisound\04_Q版\unisound Q版 a.png
+bdedb61c9b61492990cc1a88817050d5b633a629d38774909cbbd08f1b3945bb  角色\unisound\04_Q版\unisound Q版 b.png
+de309bfbcc93ddaf046c4464ad10d86c8e67ec6d35cecef4d91d43b8a5730765  角色\unisound\05_头像\unisound 头像 a.png
+bc1a11396d316d902c0aa234db279210149d61f40948c8277e75c381e5f7587b  角色\unisound\05_头像\unisound 头像 b.png
