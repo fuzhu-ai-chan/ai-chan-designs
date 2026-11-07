@@ -4,7 +4,7 @@ fba18fc2f2cbad4b85ec58b3a52fb9c601ffb5fc097d77f6658830b4e74981bf  角色\codex\0
 5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab  角色\codex\02_三视图\codex 三视图 科技.png
 b36129f5d4f29db9149ba0b52becf01b4bace9b2aec22829f23a55d0318a1cc2  角色\codex\03_补充设定\codex 三档对比 科技.png
 7ecee544a80d171981a89a0a07622e172b13e90e7cd11fcbcba0cc952c394ac3  角色\codex\04_Q版\codex Q版 b.png
-15835e63149bd5136b4202aba4028a7edab7d459f913fecdb8d448cf982ff440  角色\codex\05_头像\codex 头像 b.png
+32dbedbf842e5e5056e60d03c6f7942f2690bbf4afb2c0882517fedbfffa5fec  角色\codex\05_头像\codex 头像 b.png
 4a293e1ca6dfaa245842a8b238a6b287d71795013849dd580351b0b564bf8877  角色\diandian\01_立绘\dots a 中.png
 2f37a646a04fec7bb6b989c93ef81405d6a84d87c2d6f74eca3a82c8e124f5e5  角色\diandian\01_立绘\dots a 大.png
 1e76e51a6dee20e4cf154cd7be7f9e655cb12bdb8403f5283cc56c1672e144d2  角色\diandian\01_立绘\dots a 小.png
