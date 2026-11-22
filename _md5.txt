@@ -51,6 +51,19 @@ cf6314650f1b8c1bea74f0d900a4fbc31c0074a8c8ed7b46f1edbfc5fff522b6  角色\longcat
 6f31f0d43644d2765df04cf99d35a3d80eb2b8d61736931fe8da7d85a53ec6dc  角色\longcat\04_Q版\Q版b.png
 0bdd27887ed71857de89c45c591d8b88595c8200dc674afdfb2f32c92c3d30e8  角色\longcat\05_头像\头像a.png
 f2ab5621b0b9ef5c761ce0c95bc6361fa490f2db0843dd8253a1492fc47cb2df  角色\longcat\05_头像\头像b.png
+f4f48ddd4a5ca16afc08bf2caab15e9dfa16c477a6fa308c8b1fe44918c2d21a  角色\mai\01_立绘\mai a 中.png
+fed7bdfd29a7bc0c18d081635ad5f2b2b6280056f8013c760de73667e8845389  角色\mai\01_立绘\mai a 大.png
+bf417704889d5fffee9f6bacb68448f105b3b77fcd483b872306a403981579fa  角色\mai\01_立绘\mai a 小.png
+f7ac6010aabdb0eb396fc0a81c9c1224e6c821657ecc5262072bb4463d68a0fe  角色\mai\01_立绘\mai b 中.png
+1337ec40faa36924e81dd9f7f8ae21a2edf478c21d98821fcffa34a29fb478ff  角色\mai\01_立绘\mai b 大.png
+6e1d8d9019488799f7dbf5c78d1f45702a00709964ddc390077d9524bde4954f  角色\mai\01_立绘\mai b 小.png
+05fe8145e6a6514f9995a41635c1b1ddb44791947ef4e1bd5b3292968a512bf1  角色\mai\02_三视图\mai 三视图 奇幻.png
+4f0461d1cf14c67e4bd8cf04dba41f8f91ad49aa93f451e9902d7a3dba0ce61c  角色\mai\02_三视图\mai 三视图 科技.png
+fb401deeaa0f7353f0d1fdbf55f2a09e503647f4cd7c7f96f123447e18873867  角色\mai\03_补充设定\mai 补充设定.png
+ce737714e7ac3690bd673c5f7c1dbf8411d0f25e8e4c0e0bce3efd110cdaf00a  角色\mai\04_Q版\mai Q版 a.png
+789a6b02dac8826a963e49cfd7e5af1bee6dedb7290db861eb41f70798b53ae3  角色\mai\04_Q版\mai Q版 b.png
+43c32bac0404f64ec722aa7f24741e8bc26809e9534e352e2ca0c6cbae98e978  角色\mai\05_头像\mai 头像 a.png
+27e4e668d89771aa4934a7135e2c5ede479a79d6df3d9e652b6923b23bed7f1c  角色\mai\05_头像\mai 头像 b.png
 31bb879c6f05897e535084c7b8b3e6f7cc9008582a37d26ff83f2816c7fdc146  角色\mimo\01_立绘\mimo a 中.png
 19059f60c2311a296bbbfb2d4c144f8738697bafb9ca5fad14b5f1d7db8999cf  角色\mimo\01_立绘\mimo a 大.png
 5083f4c2bcab3270d66d8456f3c51010f3de29f726f0c2d2c1612f279435590b  角色\mimo\01_立绘\mimo a 小.png
