@@ -117,6 +117,7 @@ fc1235f91ba8364d848022f57e4f469fcd54ba79f0c4c979281b05e633b15965  角色\moss\02
 fc4a7a0560eb8e49569ea60ed1880dab7a9938b9973c62e60bf4ac2a707584c0  角色\moss\05_头像\moss 头像 a.png
 994cdffab0f2ea0adde824c1d426c095a1fcf25f5f922186e9445226cad45a11  角色\moss\05_头像\moss 头像 b.png
 04cf8a3db16813a7a6de8644314522d7a1536b8758ed4de756b79c217ef3a311  角色\moss\07_官方IP征集优化版\moss 官方IP征集_MOSS-Image-SFT原生直出.png
+b57e59879b5ebf98495f63815d87b2cd4f0964498ebf34d574bb3b8350150931  角色\moss\07_官方IP征集优化版\moss 官方IP征集_三视图.png
 1103f0de61e74345f8638a5d08448b300b00b63a02368698df9cc557b3a2c7df  角色\moss\07_官方IP征集优化版\moss 官方IP征集_正式立绘_原画风精修.png
 d939f216ddb35af305cd52681c810df24313d81b80b83a606571b08a0d38d2f8  角色\moss\07_官方IP征集优化版\moss 官方IP征集_正式立绘_角色库平涂.png
 867f834b172505d75c3e707d4c0ac4b391e164e215a5ed164bf8e257f24f357c  角色\step\01_立绘\step a 中.png
