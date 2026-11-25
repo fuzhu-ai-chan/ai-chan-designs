@@ -168,7 +168,7 @@ c6badea373d2aeed06864adbc99f0b1a09cc0c15728040ae4535483458a5b6c2  角色\minimax
 e8684a5478a74a7e52119ae9d90749bc04a7b2c21ef249a140031ea3a0f244c3  角色\minimax\02_三视图\minimax 三视图 奇幻.png
 da30e739b49139e3cc76384ff675d694e0cc9bb43911aee0c2a2c757a0aa363c  角色\minimax\02_三视图\minimax 三视图 科技.png
 78540555a60084ea50ca13865a94919ce808414889fc6ff65c42f4052de0899a  角色\minimax\03_补充设定\minimax 补充设定.png
-de535d2cdca6b11d2c7ae19da638cd48c5af95a70348e4f8aa8110b88d3750aa  角色\minimax\04_Q版\minimax Q版 a.png
-579073c6c4217ab1e4f150b35fd77f4104ef4c65f0dde947bf835575a5e10310  角色\minimax\04_Q版\minimax Q版 b.png
-7f76fb32c8d042f9b0786a6e3f9c321b01642af2d7e75b0041ad7b1c64edd95e  角色\minimax\05_头像\minimax 头像 a.png
-47e574f4549d85963098205add5dc7f0be77ea7946730a5ff49ccd93ddb776ef  角色\minimax\05_头像\minimax 头像 b.png
+6c94ce67e5af00dd9140aa0c80501a5c  角色\minimax\04_Q版\minimax Q版 a.png
+c01ed193e6f2145731ef1b20262e2fc6  角色\minimax\04_Q版\minimax Q版 b.png
+0fa8b2a84f69a78ab5731a6b7cb01dc5  角色\minimax\05_头像\minimax 头像 a.png
+ccc17df63dff5d6742ae94078c501a60  角色\minimax\05_头像\minimax 头像 b.png
